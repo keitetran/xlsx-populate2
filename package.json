@@ -38,7 +38,6 @@
     "vinyl-source-stream": "^2.0.0",
     "watchify": "^3.11.0"
   },
-  "homepage": "https://github.com/dtjohnson/xlsx-populate#readme",
   "keywords": [
     "excel",
     "workbook",
@@ -55,7 +54,7 @@
   ],
   "license": "MIT",
   "main": "lib/XlsxPopulate.js",
-  "name": "xlsx-populate",
+  "name": "xlsx-populate2",
   "scripts": {
     "e2e-generate": "jasmine JASMINE_CONFIG_PATH=test/e2e-generate/jasmine.json",
     "e2e-parse": "jasmine JASMINE_CONFIG_PATH=test/e2e-parse/jasmine.json",
